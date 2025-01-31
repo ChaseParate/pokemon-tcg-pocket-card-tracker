@@ -1,0 +1,13 @@
+genetic_apex = [
+    1,
+    2,
+    3,
+]
+
+mythical_island = [
+    # Put your Mythical Island card IDs here!
+]
+
+space_time_smackdown = [
+    1,
+]

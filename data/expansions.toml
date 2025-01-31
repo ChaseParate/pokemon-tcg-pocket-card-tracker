@@ -1,14 +1,11 @@
-[[expansions]]
+[genetic_apex]
 name = "Genetic Apex"
-id = "genetic_apex"
 packs = ["Charizard", "Mewtwo", "Pikachu"]
 
-[[expansions]]
+[mythical_island]
 name = "Mythical Island"
-id = "mythical_island"
 packs = ["Mew"]
 
-[[expansions]]
+[space_time_smackdown]
 name = "Space-Time Smackdown"
-id = "space_time_smackdown"
 packs = ["Dialga", "Palkia"]
