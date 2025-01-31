@@ -1,0 +1,287 @@
+number,name,rarity,packs
+1,Bulbasaur,♢,Mewtwo
+2,Ivysaur,♢♢,Mewtwo
+3,Venusaur,♢♢♢,Mewtwo
+4,Venusaur ex,♢♢♢♢,Mewtwo
+5,Caterpie,♢,Pikachu
+6,Metapod,♢,Pikachu
+7,Butterfree,♢♢♢,Pikachu
+8,Weedle,♢,Mewtwo
+9,Kakuna,♢,Mewtwo
+10,Beedrill,♢♢♢,Mewtwo
+11,Oddish,♢,Charizard
+12,Gloom,♢♢,Charizard
+13,Vileplume,♢♢♢,Charizard
+14,Paras,♢,Pikachu
+15,Parasect,♢♢,Pikachu
+16,Venonat,♢,Mewtwo
+17,Venomoth,♢♢,Mewtwo
+18,Bellsprout,♢,Charizard
+19,Weepinbell,♢♢,Charizard
+20,Victreebel,♢♢♢,Charizard
+21,Exeggcute,♢,Charizard
+22,Exeggutor,♢♢♢,Charizard
+23,Exeggutor ex,♢♢♢♢,Charizard
+24,Tangela,♢,Charizard
+25,Scyther,♢,Mewtwo
+26,Pinsir,♢♢,Charizard:Mewtwo:Pikachu
+27,Cottonee,♢,Charizard:Mewtwo:Pikachu
+28,Whimsicott,♢♢,Charizard:Mewtwo:Pikachu
+29,Petilil,♢,Charizard:Mewtwo:Pikachu
+30,Lilligant,♢♢,Charizard:Mewtwo:Pikachu
+31,Skiddo,♢,Charizard
+32,Gogoat,♢,Charizard
+33,Charmander,♢,Charizard
+34,Charmeleon,♢♢,Charizard
+35,Charizard,♢♢♢,Charizard
+36,Charizard ex,♢♢♢♢,Charizard
+37,Vulpix,♢,Charizard
+38,Ninetales,♢♢,Charizard
+39,Growlithe,♢,Pikachu
+40,Arcanine,♢♢♢,Pikachu
+41,Arcanine ex,♢♢♢♢,Pikachu
+42,Ponyta,♢,Charizard:Mewtwo:Pikachu
+43,Rapidash,♢♢,Charizard:Mewtwo:Pikachu
+44,Magmar,♢,Charizard
+45,Flareon,♢♢♢,Charizard
+46,Moltres,♢♢♢,Charizard
+47,Moltres ex,♢♢♢♢,Charizard
+48,Heatmor,♢,Charizard:Mewtwo:Pikachu
+49,Salandit,♢,Mewtwo
+50,Salazzle,♢,Mewtwo
+51,Sizzlipede,♢,Charizard:Mewtwo:Pikachu
+52,Centiskorch,♢♢,Charizard:Mewtwo:Pikachu
+53,Squirtle,♢,Pikachu
+54,Wartortle,♢♢,Pikachu
+55,Blastoise,♢♢♢,Pikachu
+56,Blastoise ex,♢♢♢♢,Pikachu
+57,Psyduck,♢,Charizard:Mewtwo:Pikachu
+58,Golduck,♢♢,Charizard:Mewtwo:Pikachu
+59,Poliwag,♢,Charizard
+60,Poliwhirl,♢♢,Charizard
+61,Poliwrath,♢♢♢,Charizard
+62,Tentacool,♢,Mewtwo
+63,Tentacruel,♢♢,Mewtwo
+64,Seel,♢,Pikachu
+65,Dewgong,♢♢,Pikachu
+66,Shellder,♢,Mewtwo
+67,Cloyster,♢♢,Mewtwo
+68,Krabby,♢,Mewtwo
+69,Kingler,♢♢,Mewtwo
+70,Horsea,♢,Pikachu
+71,Seadra,♢♢,Pikachu
+72,Goldeen,♢,Pikachu
+73,Seaking,♢,Pikachu
+74,Staryu,♢,Charizard
+75,Starmie,♢♢,Charizard
+76,Starmie ex,♢♢♢♢,Charizard
+77,Magikarp,♢,Pikachu
+78,Gyarados,♢♢♢,Pikachu
+79,Lapras,♢♢♢,Charizard
+80,Vaporeon,♢♢♢,Mewtwo
+81,Omanyte,♢♢,Pikachu
+82,Omastar,♢♢♢,Pikachu
+83,Articuno,♢♢♢,Mewtwo
+84,Articuno ex,♢♢♢♢,Mewtwo
+85,Ducklett,♢,Charizard
+86,Swanna,♢♢,Charizard
+87,Froakie,♢,Charizard
+88,Frogadier,♢♢,Charizard
+89,Greninja,♢♢♢,Charizard
+90,Pyukumuku,♢,Charizard
+91,Bruxish,♢♢,Charizard:Mewtwo:Pikachu
+92,Snom,♢,Charizard:Mewtwo:Pikachu
+93,Frosmoth,♢♢,Charizard:Mewtwo:Pikachu
+94,Pikachu,♢,Pikachu
+95,Raichu,♢♢♢,Pikachu
+96,Pikachu ex,♢♢♢♢,Pikachu
+97,Magnemite,♢,Pikachu
+98,Magneton,♢♢♢,Pikachu
+99,Voltorb,♢,Pikachu
+100,Electrode,♢♢,Pikachu
+101,Electabuzz,♢,Pikachu
+102,Jolteon,♢♢♢,Pikachu
+103,Zapdos,♢♢♢,Pikachu
+104,Zapdos ex,♢♢♢♢,Pikachu
+105,Blitzle,♢,Charizard:Mewtwo:Pikachu
+106,Zebstrika,♢♢,Charizard:Mewtwo:Pikachu
+107,Tynamo,♢,Mewtwo
+108,Eelektrik,♢♢,Mewtwo
+109,Eelektross,♢♢♢,Mewtwo
+110,Helioptile,♢,Charizard:Mewtwo:Pikachu
+111,Heliolisk,♢,Charizard:Mewtwo:Pikachu
+112,Pincurchin,♢♢,Charizard:Mewtwo:Pikachu
+113,Clefairy,♢,Pikachu
+114,Clefable,♢♢,Pikachu
+115,Abra,♢,Charizard
+116,Kadabra,♢♢,Charizard
+117,Alakazam,♢♢♢,Charizard
+118,Slowpoke,♢,Charizard:Mewtwo:Pikachu
+119,Slowbro,♢♢,Charizard:Mewtwo:Pikachu
+120,Gastly,♢,Mewtwo
+121,Haunter,♢♢,Mewtwo
+122,Gengar,♢♢♢,Mewtwo
+123,Gengar ex,♢♢♢♢,Mewtwo
+124,Drowzee,♢,Pikachu
+125,Hypno,♢♢♢,Pikachu
+126,Mr. Mime,♢♢,Mewtwo
+127,Jynx,♢,Mewtwo
+128,Mewtwo,♢♢♢,Mewtwo
+129,Mewtwo ex,♢♢♢♢,Mewtwo
+130,Ralts,♢,Mewtwo
+131,Kirlia,♢♢,Mewtwo
+132,Gardevoir,♢♢♢,Mewtwo
+133,Woobat,♢,Charizard:Mewtwo:Pikachu
+134,Swoobat,♢,Charizard:Mewtwo:Pikachu
+135,Golett,♢,Charizard:Mewtwo:Pikachu
+136,Golurk,♢♢,Charizard:Mewtwo:Pikachu
+137,Sandshrew,♢,Charizard:Mewtwo:Pikachu
+138,Sandslash,♢♢,Charizard:Mewtwo:Pikachu
+139,Diglett,♢,Pikachu
+140,Dugtrio,♢♢,Pikachu
+141,Mankey,♢,Charizard
+142,Primeape,♢♢,Charizard
+143,Machop,♢,Charizard
+144,Machoke,♢♢,Charizard
+145,Machamp,♢♢♢,Charizard
+146,Machamp ex,♢♢♢♢,Charizard
+147,Geodude,♢,Pikachu
+148,Graveler,♢♢,Pikachu
+149,Golem,♢♢♢,Pikachu
+150,Onix,♢♢,Pikachu
+151,Cubone,♢,Mewtwo
+152,Marowak,♢♢,Mewtwo
+153,Marowak ex,♢♢♢♢,Mewtwo
+154,Hitmonlee,♢,Mewtwo
+155,Hitmonchan,♢,Charizard
+156,Rhyhorn,♢,Mewtwo
+157,Rhydon,♢♢,Mewtwo
+158,Kabuto,♢♢,Charizard
+159,Kabutops,♢♢♢,Charizard
+160,Mienfoo,♢,Pikachu
+161,Mienshao,♢♢,Pikachu
+162,Clobbopus,♢,Charizard:Mewtwo:Pikachu
+163,Grapploct,♢♢,Charizard:Mewtwo:Pikachu
+164,Ekans,♢,Charizard:Mewtwo:Pikachu
+165,Arbok,♢♢,Charizard:Mewtwo:Pikachu
+166,Nidoran♀,♢,Pikachu
+167,Nidorina,♢♢,Pikachu
+168,Nidoqueen,♢♢♢,Pikachu
+169,Nidoran♂,♢,Pikachu
+170,Nidorino,♢♢,Pikachu
+171,Nidoking,♢♢♢,Pikachu
+172,Zubat,♢,Mewtwo
+173,Golbat,♢♢,Mewtwo
+174,Grimer,♢,Mewtwo
+175,Muk,♢♢♢,Mewtwo
+176,Koffing,♢,Mewtwo
+177,Weezing,♢♢♢,Mewtwo
+178,Mawile,♢,Charizard
+179,Pawniard,♢,Charizard:Mewtwo:Pikachu
+180,Bisharp,♢♢,Charizard:Mewtwo:Pikachu
+181,Meltan,♢,Charizard
+182,Melmetal,♢♢♢,Charizard
+183,Dratini,♢,Mewtwo
+184,Dragonair,♢♢,Mewtwo
+185,Dragonite,♢♢♢,Mewtwo
+186,Pidgey,♢,Mewtwo
+187,Pidgeotto,♢,Mewtwo
+188,Pidgeot,♢♢♢,Mewtwo
+189,Rattata,♢,Charizard:Mewtwo:Pikachu
+190,Raticate,♢,Charizard:Mewtwo:Pikachu
+191,Spearow,♢,Charizard
+192,Fearow,♢,Charizard
+193,Jigglypuff,♢,Pikachu
+194,Wigglytuff,♢,Pikachu
+195,Wigglytuff ex,♢♢♢♢,Pikachu
+196,Meowth,♢,Charizard
+197,Persian,♢♢,Charizard
+198,Farfetch'd,♢,Charizard:Mewtwo:Pikachu
+199,Doduo,♢,Charizard:Mewtwo:Pikachu
+200,Dodrio,♢♢,Charizard:Mewtwo:Pikachu
+201,Lickitung,♢♢,Mewtwo
+202,Chansey,♢♢,Pikachu
+203,Kangaskhan,♢♢♢,Charizard
+204,Tauros,♢♢,Charizard
+205,Ditto,♢♢♢,Mewtwo
+206,Eevee,♢,Charizard
+207,Eevee,♢,Mewtwo
+208,Eevee,♢,Pikachu
+209,Porygon,♢♢,Mewtwo
+210,Aerodactyl,♢♢♢,Mewtwo
+211,Snorlax,♢♢♢,Pikachu
+212,Minccino,♢,Charizard:Mewtwo:Pikachu
+213,Cinccino,♢♢,Charizard:Mewtwo:Pikachu
+214,Wooloo,♢,Charizard:Mewtwo:Pikachu
+215,Dubwool,♢,Charizard:Mewtwo:Pikachu
+216,Helix Fossil,♢,Pikachu
+217,Dome Fossil,♢,Charizard
+218,Old Amber,♢,Mewtwo
+219,Erika,♢♢,Charizard
+220,Misty,♢♢,Pikachu
+221,Blaine,♢♢,Charizard
+222,Koga,♢♢,Mewtwo
+223,Giovanni,♢♢,Mewtwo
+224,Brock,♢♢,Pikachu
+225,Sabrina,♢♢,Charizard
+226,Lt. Surge,♢♢,Pikachu
+227,Bulbasaur,☆,Mewtwo
+228,Gloom,☆,Charizard
+229,Pinsir,☆,Charizard
+230,Charmander,☆,Charizard
+231,Rapidash,☆,Charizard
+232,Squirtle,☆,Pikachu
+233,Gyarados,☆,Pikachu
+234,Lapras,☆,Charizard
+235,Electrode,☆,Pikachu
+236,Alakazam,☆,Charizard
+237,Slowpoke,☆,Charizard
+238,Diglett,☆,Pikachu
+239,Cubone,☆,Mewtwo
+240,Nidoqueen,☆,Pikachu
+241,Nidoking,☆,Pikachu
+242,Golbat,☆,Mewtwo
+243,Weezing,☆,Mewtwo
+244,Dragonite,☆,Mewtwo
+245,Pidgeot,☆,Mewtwo
+246,Meowth,☆,Charizard
+247,Ditto,☆,Mewtwo
+248,Eevee,☆,Pikachu
+249,Porygon,☆,Mewtwo
+250,Snorlax,☆,Pikachu
+251,Venusaur ex,☆☆,Mewtwo
+252,Exeggutor ex,☆☆,Charizard
+253,Charizard ex,☆☆,Charizard
+254,Arcanine ex,☆☆,Pikachu
+255,Moltres ex,☆☆,Charizard
+256,Blastoise ex,☆☆,Pikachu
+257,Starmie ex,☆☆,Charizard
+258,Articuno ex,☆☆,Mewtwo
+259,Pikachu ex,☆☆,Pikachu
+260,Zapdos ex,☆☆,Pikachu
+261,Gengar ex,☆☆,Mewtwo
+262,Mewtwo ex,☆☆,Mewtwo
+263,Machamp ex,☆☆,Charizard
+264,Marowak ex,☆☆,Mewtwo
+265,Wigglytuff ex,☆☆,Pikachu
+266,Erika,☆☆,Charizard
+267,Misty,☆☆,Pikachu
+268,Blaine,☆☆,Charizard
+269,Koga,☆☆,Mewtwo
+270,Giovanni,☆☆,Mewtwo
+271,Brock,☆☆,Pikachu
+272,Sabrina,☆☆,Charizard
+273,Lt. Surge,☆☆,Pikachu
+274,Moltres ex,☆☆,Charizard
+275,Articuno ex,☆☆,Mewtwo
+276,Zapdos ex,☆☆,Pikachu
+277,Gengar ex,☆☆,Mewtwo
+278,Machamp ex,☆☆,Charizard
+279,Wigglytuff ex,☆☆,Pikachu
+280,Charizard ex,☆☆☆,Charizard
+281,Pikachu ex,☆☆☆,Pikachu
+282,Mewtwo ex,☆☆☆,Mewtwo
+283,Mew,☆☆☆,
+284,Charizard ex,♕,Charizard:Mewtwo:Pikachu
+285,Pikachu ex,♕,Charizard:Mewtwo:Pikachu
+286,Mewtwo ex,♕,Charizard:Mewtwo:Pikachu
