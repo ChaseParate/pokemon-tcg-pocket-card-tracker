@@ -14,14 +14,25 @@ pub struct Card {
     pub packs: Packs,
 }
 
+const EXPANSIONS: [&str; 3] = ["genetic_apex", "mythical_island", "space_time_smackdown"];
+
 fn main() {
     let mut cards = Vec::new();
 
-    let mut reader = csv::Reader::from_path("data/cards/genetic_apex.csv")
-        .expect("Failed to open Genetic Apex cards file");
-    for result in reader.deserialize() {
-        let card: Card = result.expect("Failed to deserialize card");
-        cards.push(card);
+    for expansion in EXPANSIONS {
+        let path = format!("data/cards/{expansion}.csv");
+
+        let mut reader = match csv::Reader::from_path(&path) {
+            Ok(reader) => reader,
+            Err(error) => {
+                panic!("Failed to open \"{expansion}\" cards file (located at \"{path}\"): {error}")
+            }
+        };
+
+        for result in reader.deserialize() {
+            let card: Card = result.expect("Failed to deserialize card");
+            cards.push(card);
+        }
     }
 
     dbg!(&cards);
