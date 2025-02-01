@@ -1,8 +1,10 @@
 use std::{
     collections::{HashMap, HashSet},
     fs,
+    path::PathBuf,
 };
 
+use clap::Parser;
 use serde::{Deserialize, Deserializer};
 
 mod rarity;
@@ -74,10 +76,21 @@ where
     })
 }
 
+/// Pokemon TCG Pocket Card Tracker
+#[derive(Debug, Parser)]
+#[command(about, long_about = None)]
+struct Cli {
+    /// Collection file path
+    #[arg(short, long, default_value = "collection.toml")]
+    collection_file: PathBuf,
+}
+
 fn main() {
+    let cli = Cli::parse();
+
     let collection = {
         let collection_file_content =
-            fs::read_to_string("collection.toml").expect("Failed to open collection file");
+            fs::read_to_string(cli.collection_file).expect("Failed to open collection file");
 
         toml::from_str::<Collection>(&collection_file_content)
             .expect("Failed to parse collection file")
