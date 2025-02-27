@@ -81,7 +81,7 @@ where
 #[command(about, long_about = None)]
 struct Cli {
     /// Collection file path
-    #[arg(short, long, default_value = "collection.toml")]
+    #[arg(default_value = "collection.toml")]
     collection_file: PathBuf,
 }
 
