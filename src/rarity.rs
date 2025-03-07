@@ -13,14 +13,8 @@ pub enum Rarity {
 }
 
 impl Rarity {
-    pub fn first_three_cards_offering_rate(&self) -> f64 {
-        match self {
-            Rarity::OneDiamond => 1.0,
-            _ => 0.0,
-        }
-    }
-
-    pub fn fourth_card_offering_rate(&self) -> f64 {
+    #[must_use]
+    pub const fn fourth_card_offering_rate(&self) -> f64 {
         match self {
             Rarity::OneDiamond => 0.0,
             Rarity::TwoDiamonds => 0.90000,
@@ -33,7 +27,8 @@ impl Rarity {
         }
     }
 
-    pub fn fifth_card_offering_rate(&self) -> f64 {
+    #[must_use]
+    pub const fn fifth_card_offering_rate(&self) -> f64 {
         match self {
             Rarity::OneDiamond => 0.0,
             Rarity::TwoDiamonds => 0.60000,

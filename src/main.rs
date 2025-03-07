@@ -113,7 +113,7 @@ fn main() {
                 .collect::<Vec<_>>();
 
             let new_card_probability =
-                calculate_probability_of_new_card(pack_cards, expansion_collection);
+                calculate_probability_of_new_card(&pack_cards, expansion_collection);
 
             pack_probabilities.push((pack, new_card_probability));
         }
@@ -127,7 +127,7 @@ fn main() {
 }
 
 fn calculate_probability_of_new_card(
-    pack_cards: Vec<&Card>,
+    pack_cards: &[&Card],
     expansion_collection: &HashSet<usize>,
 ) -> f64 {
     #[derive(Debug, Default)]
