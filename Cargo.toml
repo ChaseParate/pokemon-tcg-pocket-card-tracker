@@ -1,5 +1,5 @@
 [package]
-name = "pokemon-tcg-pocket-tracker"
+name = "pokemon-tcg-pocket-card-tracker"
 version = "0.1.0"
 edition = "2021"
 
