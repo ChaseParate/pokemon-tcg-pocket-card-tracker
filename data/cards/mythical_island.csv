@@ -1,87 +1,87 @@
-number,name,rarity,packs
-1,Exeggcute,♢,Mew
-2,Exeggutor,♢♢,Mew
-3,Celebi ex,♢♢♢♢,Mew
-4,Snivy,♢,Mew
-5,Servine,♢♢,Mew
-6,Serperior,♢♢♢,Mew
-7,Morelull,♢,Mew
-8,Shiinotic,♢♢,Mew
-9,Dhelmise,♢♢,Mew
-10,Ponyta,♢,Mew
-11,Rapidash,♢♢,Mew
-12,Magmar,♢♢,Mew
-13,Larvesta,♢,Mew
-14,Volcarona,♢♢♢,Mew
-15,Salandit,♢,Mew
-16,Salazzle,♢,Mew
-17,Magikarp,♢,Mew
-18,Gyarados ex,♢♢♢♢,Mew
-19,Vaporeon,♢♢♢,Mew
-20,Finneon,♢,Mew
-21,Lumineon,♢♢,Mew
-22,Chewtle,♢,Mew
-23,Drednaw,♢♢,Mew
-24,Cramorant,♢,Mew
-25,Pikachu,♢,Mew
-26,Raichu,♢♢♢,Mew
-27,Electabuzz,♢♢,Mew
-28,Joltik,♢,Mew
-29,Galvantula,♢♢,Mew
-30,Dedenne,♢,Mew
-31,Mew,♢♢♢,Mew
-32,Mew ex,♢♢♢♢,Mew
-33,Sigilyph,♢♢,Mew
-34,Elgyem,♢,Mew
-35,Beheeyem,♢♢,Mew
-36,Flabébé,♢,Mew
-37,Floette,♢,Mew
-38,Florges,♢♢,Mew
-39,Swirlix,♢,Mew
-40,Slurpuff,♢,Mew
-41,Mankey,♢,Mew
-42,Primeape,♢,Mew
-43,Geodude,♢,Mew
-44,Graveler,♢♢,Mew
-45,Golem,♢♢♢,Mew
-46,Aerodactyl ex,♢♢♢♢,Mew
-47,Marshadow,♢♢♢,Mew
-48,Stonjourner,♢♢,Mew
-49,Koffing,♢,Mew
-50,Weezing,♢♢,Mew
-51,Purrloin,♢,Mew
-52,Liepard,♢,Mew
-53,Venipede,♢,Mew
-54,Whirlipede,♢,Mew
-55,Scolipede,♢♢,Mew
-56,Druddigon,♢♢,Mew
-57,Pidgey,♢,Mew
-58,Pidgeotto,♢,Mew
-59,Pidgeot ex,♢♢♢♢,Mew
-60,Tauros,♢♢♢,Mew
-61,Eevee,♢,Mew
-62,Chatot,♢,Mew
-63,Old Amber,♢,Mew
-64,Pokémon Flute,♢♢,Mew
-65,Mythical Slab,♢♢,Mew
-66,Budding Expeditioner,♢♢,Mew
-67,Blue,♢♢,Mew
-68,Leaf,♢♢,Mew
-69,Exeggutor,☆,Mew
-70,Serperior,☆,Mew
-71,Salandit,☆,Mew
-72,Vaporeon,☆,Mew
-73,Dedenne,☆,Mew
-74,Marshadow,☆,Mew
-75,Celebi ex,☆☆,Mew
-76,Gyarados ex,☆☆,Mew
-77,Mew ex,☆☆,Mew
-78,Aerodactyl ex,☆☆,Mew
-79,Pidgeot ex,☆☆,Mew
-80,Budding Expeditioner,☆☆,Mew
-81,Blue,☆☆,Mew
-82,Leaf,☆☆,Mew
-83,Mew ex,☆☆,Mew
-84,Aerodactyl ex,☆☆,Mew
-85,Celebi ex,☆☆☆,Mew
-86,Mew ex,♕,Mew
+number,name,rarity
+1,Exeggcute,♢
+2,Exeggutor,♢♢
+3,Celebi ex,♢♢♢♢
+4,Snivy,♢
+5,Servine,♢♢
+6,Serperior,♢♢♢
+7,Morelull,♢
+8,Shiinotic,♢♢
+9,Dhelmise,♢♢
+10,Ponyta,♢
+11,Rapidash,♢♢
+12,Magmar,♢♢
+13,Larvesta,♢
+14,Volcarona,♢♢♢
+15,Salandit,♢
+16,Salazzle,♢
+17,Magikarp,♢
+18,Gyarados ex,♢♢♢♢
+19,Vaporeon,♢♢♢
+20,Finneon,♢
+21,Lumineon,♢♢
+22,Chewtle,♢
+23,Drednaw,♢♢
+24,Cramorant,♢
+25,Pikachu,♢
+26,Raichu,♢♢♢
+27,Electabuzz,♢♢
+28,Joltik,♢
+29,Galvantula,♢♢
+30,Dedenne,♢
+31,Mew,♢♢♢
+32,Mew ex,♢♢♢♢
+33,Sigilyph,♢♢
+34,Elgyem,♢
+35,Beheeyem,♢♢
+36,Flabébé,♢
+37,Floette,♢
+38,Florges,♢♢
+39,Swirlix,♢
+40,Slurpuff,♢
+41,Mankey,♢
+42,Primeape,♢
+43,Geodude,♢
+44,Graveler,♢♢
+45,Golem,♢♢♢
+46,Aerodactyl ex,♢♢♢♢
+47,Marshadow,♢♢♢
+48,Stonjourner,♢♢
+49,Koffing,♢
+50,Weezing,♢♢
+51,Purrloin,♢
+52,Liepard,♢
+53,Venipede,♢
+54,Whirlipede,♢
+55,Scolipede,♢♢
+56,Druddigon,♢♢
+57,Pidgey,♢
+58,Pidgeotto,♢
+59,Pidgeot ex,♢♢♢♢
+60,Tauros,♢♢♢
+61,Eevee,♢
+62,Chatot,♢
+63,Old Amber,♢
+64,Pokémon Flute,♢♢
+65,Mythical Slab,♢♢
+66,Budding Expeditioner,♢♢
+67,Blue,♢♢
+68,Leaf,♢♢
+69,Exeggutor,☆
+70,Serperior,☆
+71,Salandit,☆
+72,Vaporeon,☆
+73,Dedenne,☆
+74,Marshadow,☆
+75,Celebi ex,☆☆
+76,Gyarados ex,☆☆
+77,Mew ex,☆☆
+78,Aerodactyl ex,☆☆
+79,Pidgeot ex,☆☆
+80,Budding Expeditioner,☆☆
+81,Blue,☆☆
+82,Leaf,☆☆
+83,Mew ex,☆☆
+84,Aerodactyl ex,☆☆
+85,Celebi ex,☆☆☆
+86,Mew ex,♕

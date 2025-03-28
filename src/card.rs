@@ -5,21 +5,24 @@ pub struct Card {
     pub name: String,
     pub number: usize,
     pub rarity: Rarity,
-    #[serde(deserialize_with = "deserialize_csv_packs")]
+    #[serde(default, deserialize_with = "deserialize_card_packs")]
     pub packs: Vec<String>,
 }
 
-fn deserialize_csv_packs<'de, D>(deserializer: D) -> Result<Vec<String>, D::Error>
+fn deserialize_card_packs<'de, D>(deserializer: D) -> Result<Vec<String>, D::Error>
 where
     D: Deserializer<'de>,
 {
-    let s = String::deserialize(deserializer)?;
+    let packs_string = String::deserialize(deserializer)?;
 
-    Ok(if s.is_empty() {
+    // This check *shouldn't* be necessary, but Mew (from Genetic Apex) isn't part of any packs.
+    let packs = if packs_string.is_empty() {
         Vec::default()
     } else {
-        s.split(':').map(ToOwned::to_owned).collect()
-    })
+        packs_string.split(':').map(ToOwned::to_owned).collect()
+    };
+
+    Ok(packs)
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]

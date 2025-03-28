@@ -1,97 +1,97 @@
-number,name,rarity,packs
-1,Heracross,♢♢,Arceus
-2,Burmy,♢,Arceus
-3,Mothim,♢♢,Arceus
-4,Combee,♢,Arceus
-5,Vespiquen,♢♢,Arceus
-6,Cherubi,♢,Arceus
-7,Cherrim,♢♢,Arceus
-8,Cherrim,♢♢,Arceus
-9,Carnivine,♢♢♢,Arceus
-10,Leafeon ex,♢♢♢♢,Arceus
-11,Houndour,♢,Arceus
-12,Houndoom,♢♢,Arceus
-13,Heatran,♢♢♢,Arceus
-14,Marill,♢,Arceus
-15,Azumarill,♢,Arceus
-16,Barboach,♢,Arceus
-17,Whiscash,♢♢,Arceus
-18,Snorunt,♢,Arceus
-19,Froslass,♢♢,Arceus
-20,Snover,♢,Arceus
-21,Abomasnow,♢♢♢,Arceus
-22,Glaceon ex,♢♢♢♢,Arceus
-23,Origin Forme Palkia,♢♢♢,Arceus
-24,Phione,♢♢,Arceus
-25,Pikachu,♢,Arceus
-26,Raichu,♢♢♢,Arceus
-27,Electrike,♢,Arceus
-28,Manectric,♢♢,Arceus
-29,Clefairy,♢,Arceus
-30,Clefable,♢♢,Arceus
-31,Gastly,♢,Arceus
-32,Haunter,♢,Arceus
-33,Gengar,♢♢,Arceus
-34,Unown,♢♢,Arceus
-35,Rotom,♢♢♢,Arceus
-36,Sudowoodo,♢♢,Arceus
-37,Phanpy,♢,Arceus
-38,Donphan,♢♢,Arceus
-39,Larvitar,♢,Arceus
-40,Pupitar,♢♢,Arceus
-41,Tyranitar,♢♢♢,Arceus
-42,Nosepass,♢,Arceus
-43,Meditite,♢,Arceus
-44,Medicham,♢♢,Arceus
-45,Gible,♢,Arceus
-46,Gabite,♢,Arceus
-47,Garchomp ex,♢♢♢♢,Arceus
-48,Zubat,♢,Arceus
-49,Golbat,♢,Arceus
-50,Crobat,♢♢♢,Arceus
-51,Croagunk,♢,Arceus
-52,Toxicroak,♢♢,Arceus
-53,Magnemite,♢,Arceus
-54,Magneton,♢,Arceus
-55,Magnezone,♢♢♢,Arceus
-56,Mawile,♢,Arceus
-57,Probopass ex,♢♢♢♢,Arceus
-58,Bronzor,♢,Arceus
-59,Bronzong,♢♢,Arceus
-60,Origin Forme Dialga,♢♢♢,Arceus
-61,Giratina,♢♢♢,Arceus
-62,Eevee,♢,Arceus
-63,Snorlax,♢♢,Arceus
-64,Hoothoot,♢,Arceus
-65,Noctowl,♢♢,Arceus
-66,Starly,♢,Arceus
-67,Staravia,♢,Arceus
-68,Staraptor,♢♢,Arceus
-69,Shaymin,♢♢♢,Arceus
-70,Arceus,♢♢♢,Arceus
-71,Arceus ex,♢♢♢♢,Arceus
-72,Irida,♢♢,Arceus
-73,Celestic Town Elder,♢♢,Arceus
-74,Barry,♢♢,Arceus
-75,Adaman,♢♢,Arceus
-76,Houndoom,☆,Arceus
-77,Marill,☆,Arceus
-78,Unown,☆,Arceus
-79,Sudowoodo,☆,Arceus
-80,Magnemite,☆,Arceus
-81,Shaymin,☆,Arceus
-82,Leafeon ex,☆☆,Arceus
-83,Glaceon ex,☆☆,Arceus
-84,Garchomp ex,☆☆,Arceus
-85,Probopass ex,☆☆,Arceus
-86,Arceus ex,☆☆,Arceus
-87,Irida,☆☆,Arceus
-88,Celestic Town Elder,☆☆,Arceus
-89,Barry,☆☆,Arceus
-90,Adaman,☆☆,Arceus
-91,Leafeon ex,☆☆,Arceus
-92,Glaceon ex,☆☆,Arceus
-93,Garchomp ex,☆☆,Arceus
-94,Probopass ex,☆☆,Arceus
-95,Arceus ex,☆☆☆,Arceus
-96,Arceus ex,♕,Arceus
+number,name,rarity
+1,Heracross,♢♢
+2,Burmy,♢
+3,Mothim,♢♢
+4,Combee,♢
+5,Vespiquen,♢♢
+6,Cherubi,♢
+7,Cherrim,♢♢
+8,Cherrim,♢♢
+9,Carnivine,♢♢♢
+10,Leafeon ex,♢♢♢♢
+11,Houndour,♢
+12,Houndoom,♢♢
+13,Heatran,♢♢♢
+14,Marill,♢
+15,Azumarill,♢
+16,Barboach,♢
+17,Whiscash,♢♢
+18,Snorunt,♢
+19,Froslass,♢♢
+20,Snover,♢
+21,Abomasnow,♢♢♢
+22,Glaceon ex,♢♢♢♢
+23,Origin Forme Palkia,♢♢♢
+24,Phione,♢♢
+25,Pikachu,♢
+26,Raichu,♢♢♢
+27,Electrike,♢
+28,Manectric,♢♢
+29,Clefairy,♢
+30,Clefable,♢♢
+31,Gastly,♢
+32,Haunter,♢
+33,Gengar,♢♢
+34,Unown,♢♢
+35,Rotom,♢♢♢
+36,Sudowoodo,♢♢
+37,Phanpy,♢
+38,Donphan,♢♢
+39,Larvitar,♢
+40,Pupitar,♢♢
+41,Tyranitar,♢♢♢
+42,Nosepass,♢
+43,Meditite,♢
+44,Medicham,♢♢
+45,Gible,♢
+46,Gabite,♢
+47,Garchomp ex,♢♢♢♢
+48,Zubat,♢
+49,Golbat,♢
+50,Crobat,♢♢♢
+51,Croagunk,♢
+52,Toxicroak,♢♢
+53,Magnemite,♢
+54,Magneton,♢
+55,Magnezone,♢♢♢
+56,Mawile,♢
+57,Probopass ex,♢♢♢♢
+58,Bronzor,♢
+59,Bronzong,♢♢
+60,Origin Forme Dialga,♢♢♢
+61,Giratina,♢♢♢
+62,Eevee,♢
+63,Snorlax,♢♢
+64,Hoothoot,♢
+65,Noctowl,♢♢
+66,Starly,♢
+67,Staravia,♢
+68,Staraptor,♢♢
+69,Shaymin,♢♢♢
+70,Arceus,♢♢♢
+71,Arceus ex,♢♢♢♢
+72,Irida,♢♢
+73,Celestic Town Elder,♢♢
+74,Barry,♢♢
+75,Adaman,♢♢
+76,Houndoom,☆
+77,Marill,☆
+78,Unown,☆
+79,Sudowoodo,☆
+80,Magnemite,☆
+81,Shaymin,☆
+82,Leafeon ex,☆☆
+83,Glaceon ex,☆☆
+84,Garchomp ex,☆☆
+85,Probopass ex,☆☆
+86,Arceus ex,☆☆
+87,Irida,☆☆
+88,Celestic Town Elder,☆☆
+89,Barry,☆☆
+90,Adaman,☆☆
+91,Leafeon ex,☆☆
+92,Glaceon ex,☆☆
+93,Garchomp ex,☆☆
+94,Probopass ex,☆☆
+95,Arceus ex,☆☆☆
+96,Arceus ex,♕

@@ -8,6 +8,7 @@ use crate::Card;
 #[derive(Debug, Deserialize)]
 pub struct Expansion {
     pub name: String,
+    #[serde(default)]
     pub packs: Vec<String>,
     #[serde(skip)]
     pub cards: HashMap<usize, Card>,

@@ -4,7 +4,6 @@ packs = ["Charizard", "Mewtwo", "Pikachu"]
 
 [mythical_island]
 name = "Mythical Island"
-packs = ["Mew"]
 
 [space_time_smackdown]
 name = "Space-Time Smackdown"
@@ -12,4 +11,3 @@ packs = ["Dialga", "Palkia"]
 
 [triumphant_light]
 name = "Triumphant Light"
-packs = ["Arceus"]

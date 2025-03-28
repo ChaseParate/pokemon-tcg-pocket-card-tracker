@@ -45,17 +45,27 @@ fn main() {
             continue;
         };
 
-        for pack in &expansion.packs {
-            let pack_cards = expansion
-                .cards
-                .values()
-                .filter(|card| card.packs.contains(pack))
-                .collect::<Vec<_>>();
+        let expansion_cards = expansion.cards.values().collect::<Vec<_>>();
 
+        if expansion.packs.is_empty() {
             let new_card_probability =
-                calculate_probability_of_new_card(&pack_cards, expansion_collection);
+                calculate_probability_of_new_card(&expansion_cards, expansion_collection);
 
-            pack_probabilities.push((pack, new_card_probability));
+            pack_probabilities.push((expansion.name.clone(), new_card_probability));
+        } else {
+            for pack in &expansion.packs {
+                let pack_cards = expansion_cards
+                    .iter()
+                    .filter(|card| card.packs.contains(pack))
+                    .copied()
+                    .collect::<Vec<_>>();
+
+                let new_card_probability =
+                    calculate_probability_of_new_card(&pack_cards, expansion_collection);
+
+                pack_probabilities
+                    .push((format!("{} ({pack})", expansion.name), new_card_probability));
+            }
         }
     }
 
