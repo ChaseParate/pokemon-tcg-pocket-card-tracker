@@ -13,6 +13,9 @@ pub use card::{Card, Rarity};
 mod expansion;
 pub use expansion::Expansion;
 
+mod offering_rates;
+pub use offering_rates::OfferingRates;
+
 #[derive(Debug, Deserialize)]
 pub struct Collection(pub HashMap<String, HashSet<usize>>);
 
@@ -37,6 +40,7 @@ fn main() {
     };
 
     let expansions = Expansion::load_from_file();
+    let offering_rates_tables = OfferingRates::load_from_file();
 
     let mut pack_probabilities = Vec::new();
 
@@ -46,10 +50,16 @@ fn main() {
         };
 
         let expansion_cards = expansion.cards.values().collect::<Vec<_>>();
+        let offering_rates = offering_rates_tables
+            .get(&expansion.offering_rate_table)
+            .expect("Failed to get offering rate table");
 
         if expansion.packs.is_empty() {
-            let new_card_probability =
-                calculate_probability_of_new_card(&expansion_cards, expansion_collection);
+            let new_card_probability = calculate_probability_of_new_card(
+                &expansion_cards,
+                offering_rates,
+                expansion_collection,
+            );
 
             pack_probabilities.push((expansion.name.clone(), new_card_probability));
         } else {
@@ -60,8 +70,11 @@ fn main() {
                     .copied()
                     .collect::<Vec<_>>();
 
-                let new_card_probability =
-                    calculate_probability_of_new_card(&pack_cards, expansion_collection);
+                let new_card_probability = calculate_probability_of_new_card(
+                    &pack_cards,
+                    offering_rates,
+                    expansion_collection,
+                );
 
                 pack_probabilities
                     .push((format!("{} ({pack})", expansion.name), new_card_probability));
@@ -87,6 +100,7 @@ fn main() {
 
 fn calculate_probability_of_new_card(
     pack_cards: &[&Card],
+    offering_rates: &OfferingRates,
     expansion_collection: &HashSet<usize>,
 ) -> f64 {
     #[derive(Debug, Default)]
@@ -119,17 +133,19 @@ fn calculate_probability_of_new_card(
 
     let first_three_cards_probability = card_rarity_owned_percentages[&Rarity::OneDiamond];
 
-    let fourth_card_probability = 1.0;
-    // let fourth_card_probability = card_rarity_owned_percentages
-    //     .iter()
-    //     .map(|(rarity, owned_percentage)| rarity.fourth_card_offering_rate() * owned_percentage)
-    //     .sum::<f64>();
+    let fourth_card_probability = card_rarity_owned_percentages
+        .iter()
+        .map(|(rarity, owned_percentage)| {
+            offering_rates.fourth_card_offering_rate(rarity) * owned_percentage
+        })
+        .sum::<f64>();
 
-    let fifth_card_probability = 1.0;
-    // let fifth_card_probability = card_rarity_owned_percentages
-    //     .iter()
-    //     .map(|(rarity, owned_percentage)| rarity.fifth_card_offering_rate() * owned_percentage)
-    //     .sum::<f64>();
+    let fifth_card_probability = card_rarity_owned_percentages
+        .iter()
+        .map(|(rarity, owned_percentage)| {
+            offering_rates.fifth_card_offering_rate(rarity) * owned_percentage
+        })
+        .sum::<f64>();
 
     1.0 - (first_three_cards_probability.powi(3) * fourth_card_probability * fifth_card_probability)
 }

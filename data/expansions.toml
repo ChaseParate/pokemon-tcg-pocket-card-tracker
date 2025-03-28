@@ -1,16 +1,21 @@
 [genetic_apex]
 name = "Genetic Apex"
 packs = ["Charizard", "Mewtwo", "Pikachu"]
+offering_rate_table = "no_shinies"
 
 [mythical_island]
 name = "Mythical Island"
+offering_rate_table = "no_shinies"
 
 [space_time_smackdown]
 name = "Space-Time Smackdown"
 packs = ["Dialga", "Palkia"]
+offering_rate_table = "no_shinies"
 
 [triumphant_light]
 name = "Triumphant Light"
+offering_rate_table = "no_shinies"
 
 [shining_revelry]
 name = "Shining Revelry"
+offering_rate_table = "shinies"

@@ -12,6 +12,7 @@ pub struct Expansion {
     pub packs: Vec<String>,
     #[serde(skip)]
     pub cards: HashMap<usize, Card>,
+    pub offering_rate_table: String,
 }
 
 impl Expansion {
