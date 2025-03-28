@@ -71,8 +71,17 @@ fn main() {
 
     pack_probabilities.sort_unstable_by(|(_, a), (_, b)| a.partial_cmp(b).unwrap().reverse());
 
-    for (pack, new_card_probability) in &pack_probabilities {
-        println!("{pack}: {:.3}%", new_card_probability * 100.0);
+    let longest_pack_title_length = pack_probabilities
+        .iter()
+        .map(|(pack_title, _)| pack_title.len())
+        .max()
+        .unwrap_or(0);
+
+    for (pack_title, new_card_probability) in &pack_probabilities {
+        println!(
+            "{pack_title:<longest_pack_title_length$} | {:.3}%",
+            new_card_probability * 100.0
+        );
     }
 }
 
