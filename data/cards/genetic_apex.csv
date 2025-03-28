@@ -24,11 +24,11 @@ number,name,rarity,packs
 23,Exeggutor ex,♢♢♢♢,Charizard
 24,Tangela,♢,Charizard
 25,Scyther,♢,Mewtwo
-26,Pinsir,♢♢,Charizard:Mewtwo:Pikachu
-27,Cottonee,♢,Charizard:Mewtwo:Pikachu
-28,Whimsicott,♢♢,Charizard:Mewtwo:Pikachu
-29,Petilil,♢,Charizard:Mewtwo:Pikachu
-30,Lilligant,♢♢,Charizard:Mewtwo:Pikachu
+26,Pinsir,♢♢,Charizard|Mewtwo|Pikachu
+27,Cottonee,♢,Charizard|Mewtwo|Pikachu
+28,Whimsicott,♢♢,Charizard|Mewtwo|Pikachu
+29,Petilil,♢,Charizard|Mewtwo|Pikachu
+30,Lilligant,♢♢,Charizard|Mewtwo|Pikachu
 31,Skiddo,♢,Charizard
 32,Gogoat,♢,Charizard
 33,Charmander,♢,Charizard
@@ -40,23 +40,23 @@ number,name,rarity,packs
 39,Growlithe,♢,Pikachu
 40,Arcanine,♢♢♢,Pikachu
 41,Arcanine ex,♢♢♢♢,Pikachu
-42,Ponyta,♢,Charizard:Mewtwo:Pikachu
-43,Rapidash,♢♢,Charizard:Mewtwo:Pikachu
+42,Ponyta,♢,Charizard|Mewtwo|Pikachu
+43,Rapidash,♢♢,Charizard|Mewtwo|Pikachu
 44,Magmar,♢,Charizard
 45,Flareon,♢♢♢,Charizard
 46,Moltres,♢♢♢,Charizard
 47,Moltres ex,♢♢♢♢,Charizard
-48,Heatmor,♢,Charizard:Mewtwo:Pikachu
+48,Heatmor,♢,Charizard|Mewtwo|Pikachu
 49,Salandit,♢,Mewtwo
 50,Salazzle,♢,Mewtwo
-51,Sizzlipede,♢,Charizard:Mewtwo:Pikachu
-52,Centiskorch,♢♢,Charizard:Mewtwo:Pikachu
+51,Sizzlipede,♢,Charizard|Mewtwo|Pikachu
+52,Centiskorch,♢♢,Charizard|Mewtwo|Pikachu
 53,Squirtle,♢,Pikachu
 54,Wartortle,♢♢,Pikachu
 55,Blastoise,♢♢♢,Pikachu
 56,Blastoise ex,♢♢♢♢,Pikachu
-57,Psyduck,♢,Charizard:Mewtwo:Pikachu
-58,Golduck,♢♢,Charizard:Mewtwo:Pikachu
+57,Psyduck,♢,Charizard|Mewtwo|Pikachu
+58,Golduck,♢♢,Charizard|Mewtwo|Pikachu
 59,Poliwag,♢,Charizard
 60,Poliwhirl,♢♢,Charizard
 61,Poliwrath,♢♢♢,Charizard
@@ -89,9 +89,9 @@ number,name,rarity,packs
 88,Frogadier,♢♢,Charizard
 89,Greninja,♢♢♢,Charizard
 90,Pyukumuku,♢,Charizard
-91,Bruxish,♢♢,Charizard:Mewtwo:Pikachu
-92,Snom,♢,Charizard:Mewtwo:Pikachu
-93,Frosmoth,♢♢,Charizard:Mewtwo:Pikachu
+91,Bruxish,♢♢,Charizard|Mewtwo|Pikachu
+92,Snom,♢,Charizard|Mewtwo|Pikachu
+93,Frosmoth,♢♢,Charizard|Mewtwo|Pikachu
 94,Pikachu,♢,Pikachu
 95,Raichu,♢♢♢,Pikachu
 96,Pikachu ex,♢♢♢♢,Pikachu
@@ -103,21 +103,21 @@ number,name,rarity,packs
 102,Jolteon,♢♢♢,Pikachu
 103,Zapdos,♢♢♢,Pikachu
 104,Zapdos ex,♢♢♢♢,Pikachu
-105,Blitzle,♢,Charizard:Mewtwo:Pikachu
-106,Zebstrika,♢♢,Charizard:Mewtwo:Pikachu
+105,Blitzle,♢,Charizard|Mewtwo|Pikachu
+106,Zebstrika,♢♢,Charizard|Mewtwo|Pikachu
 107,Tynamo,♢,Mewtwo
 108,Eelektrik,♢♢,Mewtwo
 109,Eelektross,♢♢♢,Mewtwo
-110,Helioptile,♢,Charizard:Mewtwo:Pikachu
-111,Heliolisk,♢,Charizard:Mewtwo:Pikachu
-112,Pincurchin,♢♢,Charizard:Mewtwo:Pikachu
+110,Helioptile,♢,Charizard|Mewtwo|Pikachu
+111,Heliolisk,♢,Charizard|Mewtwo|Pikachu
+112,Pincurchin,♢♢,Charizard|Mewtwo|Pikachu
 113,Clefairy,♢,Pikachu
 114,Clefable,♢♢,Pikachu
 115,Abra,♢,Charizard
 116,Kadabra,♢♢,Charizard
 117,Alakazam,♢♢♢,Charizard
-118,Slowpoke,♢,Charizard:Mewtwo:Pikachu
-119,Slowbro,♢♢,Charizard:Mewtwo:Pikachu
+118,Slowpoke,♢,Charizard|Mewtwo|Pikachu
+119,Slowbro,♢♢,Charizard|Mewtwo|Pikachu
 120,Gastly,♢,Mewtwo
 121,Haunter,♢♢,Mewtwo
 122,Gengar,♢♢♢,Mewtwo
@@ -131,12 +131,12 @@ number,name,rarity,packs
 130,Ralts,♢,Mewtwo
 131,Kirlia,♢♢,Mewtwo
 132,Gardevoir,♢♢♢,Mewtwo
-133,Woobat,♢,Charizard:Mewtwo:Pikachu
-134,Swoobat,♢,Charizard:Mewtwo:Pikachu
-135,Golett,♢,Charizard:Mewtwo:Pikachu
-136,Golurk,♢♢,Charizard:Mewtwo:Pikachu
-137,Sandshrew,♢,Charizard:Mewtwo:Pikachu
-138,Sandslash,♢♢,Charizard:Mewtwo:Pikachu
+133,Woobat,♢,Charizard|Mewtwo|Pikachu
+134,Swoobat,♢,Charizard|Mewtwo|Pikachu
+135,Golett,♢,Charizard|Mewtwo|Pikachu
+136,Golurk,♢♢,Charizard|Mewtwo|Pikachu
+137,Sandshrew,♢,Charizard|Mewtwo|Pikachu
+138,Sandslash,♢♢,Charizard|Mewtwo|Pikachu
 139,Diglett,♢,Pikachu
 140,Dugtrio,♢♢,Pikachu
 141,Mankey,♢,Charizard
@@ -160,10 +160,10 @@ number,name,rarity,packs
 159,Kabutops,♢♢♢,Charizard
 160,Mienfoo,♢,Pikachu
 161,Mienshao,♢♢,Pikachu
-162,Clobbopus,♢,Charizard:Mewtwo:Pikachu
-163,Grapploct,♢♢,Charizard:Mewtwo:Pikachu
-164,Ekans,♢,Charizard:Mewtwo:Pikachu
-165,Arbok,♢♢,Charizard:Mewtwo:Pikachu
+162,Clobbopus,♢,Charizard|Mewtwo|Pikachu
+163,Grapploct,♢♢,Charizard|Mewtwo|Pikachu
+164,Ekans,♢,Charizard|Mewtwo|Pikachu
+165,Arbok,♢♢,Charizard|Mewtwo|Pikachu
 166,Nidoran♀,♢,Pikachu
 167,Nidorina,♢♢,Pikachu
 168,Nidoqueen,♢♢♢,Pikachu
@@ -177,8 +177,8 @@ number,name,rarity,packs
 176,Koffing,♢,Mewtwo
 177,Weezing,♢♢♢,Mewtwo
 178,Mawile,♢,Charizard
-179,Pawniard,♢,Charizard:Mewtwo:Pikachu
-180,Bisharp,♢♢,Charizard:Mewtwo:Pikachu
+179,Pawniard,♢,Charizard|Mewtwo|Pikachu
+180,Bisharp,♢♢,Charizard|Mewtwo|Pikachu
 181,Meltan,♢,Charizard
 182,Melmetal,♢♢♢,Charizard
 183,Dratini,♢,Mewtwo
@@ -187,8 +187,8 @@ number,name,rarity,packs
 186,Pidgey,♢,Mewtwo
 187,Pidgeotto,♢,Mewtwo
 188,Pidgeot,♢♢♢,Mewtwo
-189,Rattata,♢,Charizard:Mewtwo:Pikachu
-190,Raticate,♢,Charizard:Mewtwo:Pikachu
+189,Rattata,♢,Charizard|Mewtwo|Pikachu
+190,Raticate,♢,Charizard|Mewtwo|Pikachu
 191,Spearow,♢,Charizard
 192,Fearow,♢,Charizard
 193,Jigglypuff,♢,Pikachu
@@ -196,9 +196,9 @@ number,name,rarity,packs
 195,Wigglytuff ex,♢♢♢♢,Pikachu
 196,Meowth,♢,Charizard
 197,Persian,♢♢,Charizard
-198,Farfetch'd,♢,Charizard:Mewtwo:Pikachu
-199,Doduo,♢,Charizard:Mewtwo:Pikachu
-200,Dodrio,♢♢,Charizard:Mewtwo:Pikachu
+198,Farfetch'd,♢,Charizard|Mewtwo|Pikachu
+199,Doduo,♢,Charizard|Mewtwo|Pikachu
+200,Dodrio,♢♢,Charizard|Mewtwo|Pikachu
 201,Lickitung,♢♢,Mewtwo
 202,Chansey,♢♢,Pikachu
 203,Kangaskhan,♢♢♢,Charizard
@@ -210,10 +210,10 @@ number,name,rarity,packs
 209,Porygon,♢♢,Mewtwo
 210,Aerodactyl,♢♢♢,Mewtwo
 211,Snorlax,♢♢♢,Pikachu
-212,Minccino,♢,Charizard:Mewtwo:Pikachu
-213,Cinccino,♢♢,Charizard:Mewtwo:Pikachu
-214,Wooloo,♢,Charizard:Mewtwo:Pikachu
-215,Dubwool,♢,Charizard:Mewtwo:Pikachu
+212,Minccino,♢,Charizard|Mewtwo|Pikachu
+213,Cinccino,♢♢,Charizard|Mewtwo|Pikachu
+214,Wooloo,♢,Charizard|Mewtwo|Pikachu
+215,Dubwool,♢,Charizard|Mewtwo|Pikachu
 216,Helix Fossil,♢,Pikachu
 217,Dome Fossil,♢,Charizard
 218,Old Amber,♢,Mewtwo
@@ -282,6 +282,6 @@ number,name,rarity,packs
 281,Pikachu ex,☆☆☆,Pikachu
 282,Mewtwo ex,☆☆☆,Mewtwo
 283,Mew,☆☆☆,
-284,Charizard ex,♕,Charizard:Mewtwo:Pikachu
-285,Pikachu ex,♕,Charizard:Mewtwo:Pikachu
-286,Mewtwo ex,♕,Charizard:Mewtwo:Pikachu
+284,Charizard ex,♕,Charizard|Mewtwo|Pikachu
+285,Pikachu ex,♕,Charizard|Mewtwo|Pikachu
+286,Mewtwo ex,♕,Charizard|Mewtwo|Pikachu

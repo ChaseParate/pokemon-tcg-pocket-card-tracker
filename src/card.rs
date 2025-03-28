@@ -19,7 +19,7 @@ where
     let packs = if packs_string.is_empty() {
         Vec::default()
     } else {
-        packs_string.split(':').map(ToOwned::to_owned).collect()
+        packs_string.split('|').map(ToOwned::to_owned).collect()
     };
 
     Ok(packs)

@@ -1,34 +1,34 @@
 number,name,rarity,packs
-1,Oddish,♢,Dialga:Palkia
-2,Gloom,♢,Dialga:Palkia
-3,Bellossom,♢♢,Dialga:Palkia
+1,Oddish,♢,Dialga|Palkia
+2,Gloom,♢,Dialga|Palkia
+3,Bellossom,♢♢,Dialga|Palkia
 4,Tangela,♢,Dialga
 5,Tangrowth,♢♢,Dialga
 6,Yanma,♢,Dialga
 7,Yanmega ex,♢♢♢♢,Dialga
-8,Roselia,♢,Dialga:Palkia
-9,Roserade,♢♢,Dialga:Palkia
+8,Roselia,♢,Dialga|Palkia
+9,Roserade,♢♢,Dialga|Palkia
 10,Turtwig,♢,Palkia
 11,Grotle,♢♢,Palkia
 12,Torterra,♢♢♢,Palkia
 13,Kricketot,♢,Palkia
 14,Kricketune,♢,Palkia
-15,Burmy,♢,Dialga:Palkia
-16,Wormadam,♢,Dialga:Palkia
+15,Burmy,♢,Dialga|Palkia
+16,Wormadam,♢,Dialga|Palkia
 17,Combee,♢,Dialga
 18,Vespiquen,♢♢,Dialga
 19,Carnivine,♢♢,Palkia
 20,Leafeon,♢♢♢,Dialga
-21,Mow Rotom,♢,Dialga:Palkia
+21,Mow Rotom,♢,Dialga|Palkia
 22,Shaymin,♢♢♢,Dialga
 23,Magmar,♢,Palkia
 24,Magmortar,♢♢♢,Palkia
-25,Slugma,♢,Dialga:Palkia
-26,Magcargo,♢♢,Dialga:Palkia
+25,Slugma,♢,Dialga|Palkia
+26,Magcargo,♢♢,Dialga|Palkia
 27,Chimchar,♢,Palkia
 28,Monferno,♢♢,Palkia
 29,Infernape ex,♢♢♢♢,Palkia
-30,Heat Rotom,♢,Dialga:Palkia
+30,Heat Rotom,♢,Dialga|Palkia
 31,Swinub,♢,Dialga
 32,Piloswine,♢♢,Dialga
 33,Mamoswine,♢♢♢,Dialga
@@ -36,24 +36,24 @@ number,name,rarity,packs
 35,Piplup,♢,Palkia
 36,Prinplup,♢♢,Palkia
 37,Empoleon,♢♢♢,Palkia
-38,Buizel,♢,Dialga:Palkia
-39,Floatzel,♢♢,Dialga:Palkia
+38,Buizel,♢,Dialga|Palkia
+39,Floatzel,♢♢,Dialga|Palkia
 40,Shellos,♢,Palkia
 41,Gastrodon,♢♢,Palkia
-42,Finneon,♢,Dialga:Palkia
-43,Lumineon,♢♢,Dialga:Palkia
-44,Snover,♢,Dialga:Palkia
-45,Abomasnow,♢♢,Dialga:Palkia
+42,Finneon,♢,Dialga|Palkia
+43,Lumineon,♢♢,Dialga|Palkia
+44,Snover,♢,Dialga|Palkia
+45,Abomasnow,♢♢,Dialga|Palkia
 46,Glaceon,♢♢♢,Palkia
-47,Wash Rotom,♢,Dialga:Palkia
-48,Frost Rotom,♢,Dialga:Palkia
+47,Wash Rotom,♢,Dialga|Palkia
+48,Frost Rotom,♢,Dialga|Palkia
 49,Palkia ex,♢♢♢♢,Palkia
 50,Manaphy,♢♢,Palkia
-51,Magnemite,♢,Dialga:Palkia
-52,Magneton,♢♢,Dialga:Palkia
-53,Magnezone,♢♢♢,Dialga:Palkia
-54,Voltorb,♢,Dialga:Palkia
-55,Electrode,♢♢,Dialga:Palkia
+51,Magnemite,♢,Dialga|Palkia
+52,Magneton,♢♢,Dialga|Palkia
+53,Magnezone,♢♢♢,Dialga|Palkia
+54,Voltorb,♢,Dialga|Palkia
+55,Electrode,♢♢,Dialga|Palkia
 56,Electabuzz,♢,Dialga
 57,Electivire,♢♢♢,Dialga
 58,Shinx,♢,Dialga
@@ -61,9 +61,9 @@ number,name,rarity,packs
 60,Luxray,♢♢♢,Dialga
 61,Pachirisu ex,♢♢♢♢,Dialga
 62,Rotom,♢,Palkia
-63,Togepi,♢,Dialga:Palkia
-64,Togetic,♢♢,Dialga:Palkia
-65,Togekiss,♢♢♢,Dialga:Palkia
+63,Togepi,♢,Dialga|Palkia
+64,Togetic,♢♢,Dialga|Palkia
+65,Togekiss,♢♢♢,Dialga|Palkia
 66,Misdreavus,♢,Palkia
 67,Mismagius ex,♢♢♢♢,Palkia
 68,Ralts,♢,Dialga
@@ -73,9 +73,9 @@ number,name,rarity,packs
 72,Dusknoir,♢♢♢,Dialga
 73,Drifloon,♢,Dialga
 74,Drifblim,♢♢,Dialga
-75,Uxie,♢♢,Dialga:Palkia
-76,Mesprit,♢♢♢,Dialga:Palkia
-77,Azelf,♢♢,Dialga:Palkia
+75,Uxie,♢♢,Dialga|Palkia
+76,Mesprit,♢♢♢,Dialga|Palkia
+77,Azelf,♢♢,Dialga|Palkia
 78,Giratina,♢♢♢,Palkia
 79,Cresselia,♢♢♢,Palkia
 80,Rhyhorn,♢,Palkia
@@ -84,8 +84,8 @@ number,name,rarity,packs
 83,Gligar,♢,Dialga
 84,Gliscor,♢♢,Dialga
 85,Hitmontop,♢,Dialga
-86,Nosepass,♢,Dialga:Palkia
-87,Regirock,♢♢,Dialga:Palkia
+86,Nosepass,♢,Dialga|Palkia
+87,Regirock,♢♢,Dialga|Palkia
 88,Cranidos,♢♢,Dialga
 89,Rampardos,♢♢♢,Dialga
 90,Wormadam,♢,Dialga
@@ -98,25 +98,25 @@ number,name,rarity,packs
 97,Honchkrow,♢♢,Dialga
 98,Sneasel,♢,Palkia
 99,Weavile ex,♢♢♢♢,Palkia
-100,Poochyena,♢,Dialga:Palkia
-101,Mightyena,♢♢,Dialga:Palkia
+100,Poochyena,♢,Dialga|Palkia
+101,Mightyena,♢♢,Dialga|Palkia
 102,Stunky,♢,Dialga
 103,Skuntank,♢♢,Dialga
 104,Spiritomb,♢♢,Palkia
-105,Skorupi,♢,Dialga:Palkia
-106,Drapion,♢♢,Dialga:Palkia
+105,Skorupi,♢,Dialga|Palkia
+106,Drapion,♢♢,Dialga|Palkia
 107,Croagunk,♢,Dialga
 108,Toxicroak,♢♢,Dialga
 109,Darkrai,♢♢♢,Dialga
 110,Darkrai ex,♢♢♢♢,Dialga
-111,Skarmory,♢♢,Dialga:Palkia
+111,Skarmory,♢♢,Dialga|Palkia
 112,Registeel,♢♢,Dialga
 113,Shieldon,♢♢,Palkia
 114,Bastiodon,♢♢♢,Palkia
 115,Wormadam,♢,Palkia
 116,Bronzor,♢,Dialga
 117,Bronzong,♢♢,Dialga
-118,Probopass,♢♢,Dialga:Palkia
+118,Probopass,♢♢,Dialga|Palkia
 119,Dialga ex,♢♢♢♢,Dialga
 120,Heatran,♢♢♢,Dialga
 121,Gible,♢,Palkia
@@ -124,12 +124,12 @@ number,name,rarity,packs
 123,Garchomp,♢♢♢,Palkia
 124,Lickitung,♢,Palkia
 125,Lickilicky ex,♢♢♢♢,Palkia
-126,Eevee,♢,Dialga:Palkia
+126,Eevee,♢,Dialga|Palkia
 127,Porygon,♢,Palkia
 128,Porygon2,♢♢,Palkia
 129,Porygon-Z,♢♢♢,Palkia
-130,Aipom,♢,Dialga:Palkia
-131,Ambipom,♢,Dialga:Palkia
+130,Aipom,♢,Dialga|Palkia
+131,Ambipom,♢,Dialga|Palkia
 132,Starly,♢,Palkia
 133,Staravia,♢,Palkia
 134,Staraptor,♢♢,Palkia
@@ -140,8 +140,8 @@ number,name,rarity,packs
 139,Glameow,♢,Palkia
 140,Purugly,♢♢,Palkia
 141,Chatot,♢,Palkia
-142,Fan Rotom,♢,Dialga:Palkia
-143,Regigigas,♢♢♢,Dialga:Palkia
+142,Fan Rotom,♢,Dialga|Palkia
+143,Regigigas,♢♢♢,Dialga|Palkia
 144,Skull Fossil,♢,Dialga
 145,Armor Fossil,♢,Palkia
 146,Pokémon Communication,♢♢,Dialga
@@ -204,5 +204,5 @@ number,name,rarity,packs
 203,Lickilicky ex,☆☆,Palkia
 204,Palkia ex,☆☆☆,Palkia
 205,Dialga ex,☆☆☆,Dialga
-206,Palkia ex,♕,Dialga:Palkia
-207,Dialga ex,♕,Dialga:Palkia
+206,Palkia ex,♕,Dialga|Palkia
+207,Dialga ex,♕,Dialga|Palkia
