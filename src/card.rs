@@ -1,5 +1,27 @@
 use serde::{de::Visitor, Deserialize, Deserializer};
 
+#[derive(Debug, Deserialize)]
+pub struct Card {
+    pub name: String,
+    pub number: usize,
+    pub rarity: Rarity,
+    #[serde(deserialize_with = "deserialize_csv_packs")]
+    pub packs: Vec<String>,
+}
+
+fn deserialize_csv_packs<'de, D>(deserializer: D) -> Result<Vec<String>, D::Error>
+where
+    D: Deserializer<'de>,
+{
+    let s = String::deserialize(deserializer)?;
+
+    Ok(if s.is_empty() {
+        Vec::default()
+    } else {
+        s.split(':').map(ToOwned::to_owned).collect()
+    })
+}
+
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
 pub enum Rarity {
     OneDiamond,
