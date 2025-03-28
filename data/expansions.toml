@@ -11,3 +11,6 @@ packs = ["Dialga", "Palkia"]
 
 [triumphant_light]
 name = "Triumphant Light"
+
+[shining_revelry]
+name = "Shining Revelry"

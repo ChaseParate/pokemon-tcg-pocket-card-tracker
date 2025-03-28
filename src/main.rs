@@ -119,15 +119,17 @@ fn calculate_probability_of_new_card(
 
     let first_three_cards_probability = card_rarity_owned_percentages[&Rarity::OneDiamond];
 
-    let fourth_card_probability = card_rarity_owned_percentages
-        .iter()
-        .map(|(rarity, owned_percentage)| rarity.fourth_card_offering_rate() * owned_percentage)
-        .sum::<f64>();
+    let fourth_card_probability = 1.0;
+    // let fourth_card_probability = card_rarity_owned_percentages
+    //     .iter()
+    //     .map(|(rarity, owned_percentage)| rarity.fourth_card_offering_rate() * owned_percentage)
+    //     .sum::<f64>();
 
-    let fifth_card_probability = card_rarity_owned_percentages
-        .iter()
-        .map(|(rarity, owned_percentage)| rarity.fifth_card_offering_rate() * owned_percentage)
-        .sum::<f64>();
+    let fifth_card_probability = 1.0;
+    // let fifth_card_probability = card_rarity_owned_percentages
+    //     .iter()
+    //     .map(|(rarity, owned_percentage)| rarity.fifth_card_offering_rate() * owned_percentage)
+    //     .sum::<f64>();
 
     1.0 - (first_three_cards_probability.powi(3) * fourth_card_probability * fifth_card_probability)
 }
