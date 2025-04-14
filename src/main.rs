@@ -45,7 +45,7 @@ fn main() {
     let mut pack_probabilities = Vec::new();
 
     for (expansion_id, expansion) in &expansions {
-        let Some(expansion_collection) = collection.0.get(expansion_id) else {
+        let Some(uncollected_expansion_card_numbers) = collection.0.get(expansion_id) else {
             continue;
         };
 
@@ -58,7 +58,7 @@ fn main() {
             let new_card_probability = calculate_probability_of_new_card(
                 &expansion_cards,
                 offering_rates,
-                expansion_collection,
+                uncollected_expansion_card_numbers,
             );
 
             pack_probabilities.push((expansion.name.clone(), new_card_probability));
@@ -73,7 +73,7 @@ fn main() {
                 let new_card_probability = calculate_probability_of_new_card(
                     &pack_cards,
                     offering_rates,
-                    expansion_collection,
+                    uncollected_expansion_card_numbers,
                 );
 
                 pack_probabilities
@@ -101,7 +101,7 @@ fn main() {
 fn calculate_probability_of_new_card(
     pack_cards: &[&Card],
     offering_rates: &OfferingRates,
-    expansion_collection: &HashSet<usize>,
+    uncollected_expansion_card_numbers: &HashSet<usize>,
 ) -> f64 {
     #[derive(Debug, Default)]
     struct CardCount {
@@ -115,7 +115,7 @@ fn calculate_probability_of_new_card(
             .fold(HashMap::<Rarity, CardCount>::new(), |mut counts, card| {
                 let card_count = counts.entry(card.rarity).or_default();
 
-                if expansion_collection.contains(&card.number) {
+                if !uncollected_expansion_card_numbers.contains(&card.number) {
                     card_count.collected += 1;
                 }
                 card_count.total += 1;
