@@ -19,3 +19,8 @@ offering_rate_table = "no_shinies"
 [shining_revelry]
 name = "Shining Revelry"
 offering_rate_table = "shinies"
+
+[celestial_guardians]
+name = "Celestial Guardians"
+packs = ["Solgaleo", "Lunala"]
+offering_rate_table = "shinies"

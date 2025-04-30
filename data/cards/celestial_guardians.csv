@@ -1,0 +1,240 @@
+number,name,rarity,packs
+1,Exeggcute,♢,Lunala
+2,Alolan Exeggutor,♢♢♢,Lunala
+3,Surskit,♢,Solgaleo|Lunala
+4,Masquerain,♢♢,Solgaleo|Lunala
+5,Maractus,♢,Lunala
+6,Karrablast,♢,Solgaleo|Lunala
+7,Phantump,♢,Solgaleo
+8,Trevenant,♢♢,Solgaleo
+9,Rowlet,♢,Solgaleo
+10,Rowlet,♢,Lunala
+11,Dartrix,♢♢,Lunala
+12,Decidueye ex,♢♢♢♢,Lunala
+13,Grubbin,♢,Lunala
+14,Fomantis,♢,Solgaleo|Lunala
+15,Lurantis,♢♢,Solgaleo|Lunala
+16,Morelull,♢,Lunala
+17,Shiinotic,♢♢,Lunala
+18,Bounsweet,♢,Solgaleo
+19,Steenee,♢♢,Solgaleo
+20,Tsareena,♢♢♢,Solgaleo
+21,Wimpod,♢,Solgaleo
+22,Golisopod,♢♢♢,Solgaleo
+23,Dhelmise ex,♢♢♢♢,Solgaleo
+24,Tapu Bulu,♢♢♢,Solgaleo
+25,Growlithe,♢,Solgaleo|Lunala
+26,Arcanine,♢♢,Solgaleo|Lunala
+27,Alolan Marowak,♢♢,Lunala
+28,Fletchinder,♢,Solgaleo
+29,Talonflame,♢♢♢,Solgaleo
+30,Litten,♢,Solgaleo
+31,Litten,♢,Lunala
+32,Torracat,♢♢,Solgaleo
+33,Incineroar ex,♢♢♢♢,Solgaleo
+34,Oricorio,♢♢,Lunala
+35,Salandit,♢,Solgaleo|Lunala
+36,Salazzle,♢,Solgaleo|Lunala
+37,Turtonator,♢♢♢,Lunala
+38,Alolan Sandshrew,♢,Solgaleo|Lunala
+39,Alolan Sandslash,♢♢,Solgaleo|Lunala
+40,Alolan Vulpix,♢,Lunala
+41,Alolan Ninetales,♢♢♢,Lunala
+42,Shellder,♢,Solgaleo
+43,Cloyster,♢♢,Solgaleo
+44,Lapras,♢♢,Solgaleo|Lunala
+45,Popplio,♢,Lunala
+46,Popplio,♢,Solgaleo
+47,Brionne,♢♢,Lunala
+48,Primarina,♢♢♢,Lunala
+49,Crabominable ex,♢♢♢♢,Solgaleo
+50,Wishiwashi,♢,Lunala
+51,Wishiwashi ex,♢♢♢♢,Lunala
+52,Dewpider,♢,Solgaleo
+53,Araquanid,♢♢,Solgaleo
+54,Pyukumuku,♢,Lunala
+55,Bruxish,♢,Solgaleo|Lunala
+56,Tapu Fini,♢♢♢,Lunala
+57,Pikachu,♢,Solgaleo
+58,Alolan Raichu ex,♢♢♢♢,Solgaleo
+59,Alolan Geodude,♢,Solgaleo
+60,Alolan Graveler,♢♢,Solgaleo
+61,Alolan Golem,♢♢♢,Solgaleo
+62,Helioptile,♢,Solgaleo|Lunala
+63,Heliolisk,♢,Solgaleo|Lunala
+64,Charjabug,♢♢,Lunala
+65,Vikavolt,♢♢♢,Lunala
+66,Oricorio,♢♢♢,Solgaleo
+67,Togedemaru,♢,Lunala
+68,Tapu Koko,♢♢♢,Solgaleo
+69,Mr. Mime,♢♢,Solgaleo
+70,Sableye,♢♢,Solgaleo|Lunala
+71,Spoink,♢,Solgaleo|Lunala
+72,Grumpig,♢♢,Solgaleo|Lunala
+73,Lunatone,♢,Lunala
+74,Shuppet,♢,Solgaleo|Lunala
+75,Banette,♢,Solgaleo|Lunala
+76,Oricorio,♢♢,Solgaleo
+77,Oricorio,♢♢,Lunala
+78,Cutiefly,♢,Solgaleo
+79,Ribombee,♢,Solgaleo
+80,Comfey,♢♢♢,Solgaleo
+81,Sandygast,♢,Solgaleo
+82,Palossand,♢♢♢,Solgaleo
+83,Mimikyu,♢,Lunala
+84,Tapu Lele,♢♢♢,Lunala
+85,Cosmog,♢,Solgaleo|Lunala
+86,Cosmoem,♢♢,Solgaleo|Lunala
+87,Lunala ex,♢♢♢♢,Lunala
+88,Necrozma,♢♢♢,Lunala
+89,Cubone,♢,Lunala
+90,Makuhita,♢,Solgaleo|Lunala
+91,Hariyama,♢♢,Solgaleo|Lunala
+92,Solrock,♢,Solgaleo
+93,Drilbur,♢,Solgaleo|Lunala
+94,Timburr,♢,Lunala
+95,Gurdurr,♢♢,Lunala
+96,Conkeldurr,♢♢♢,Lunala
+97,Crabrawler,♢,Solgaleo
+98,Rockruff,♢,Lunala
+99,Rockruff,♢,Solgaleo
+100,Lycanroc,♢♢♢,Solgaleo
+101,Lycanroc,♢♢♢,Lunala
+102,Mudbray,♢,Solgaleo
+103,Mudsdale,♢♢,Solgaleo
+104,Passimian ex,♢♢♢♢,Lunala
+105,Minior,♢♢,Lunala
+106,Alolan Rattata,♢,Lunala
+107,Alolan Raticate,♢♢,Lunala
+108,Alolan Meowth,♢,Solgaleo
+109,Alolan Persian,♢♢♢,Solgaleo
+110,Alolan Grimer,♢,Lunala
+111,Alolan Muk ex,♢♢♢♢,Lunala
+112,Absol,♢♢♢,Lunala
+113,Trubbish,♢,Solgaleo|Lunala
+114,Garbodor,♢♢,Solgaleo|Lunala
+115,Mareanie,♢,Lunala
+116,Toxapex,♢,Lunala
+117,Alolan Diglett,♢,Solgaleo|Lunala
+118,Alolan Dugtrio,♢,Solgaleo|Lunala
+119,Excadrill,♢♢,Solgaleo|Lunala
+120,Escavalier,♢♢,Solgaleo|Lunala
+121,Klefki,♢♢♢,Solgaleo
+122,Solgaleo ex,♢♢♢♢,Solgaleo
+123,Magearna,♢♢♢,Solgaleo
+124,Drampa,♢♢♢,Solgaleo
+125,Jangmo-o,♢,Lunala
+126,Hakamo-o,♢♢,Lunala
+127,Kommo-o,♢♢♢,Lunala
+128,Tauros,♢♢,Solgaleo|Lunala
+129,Skitty,♢,Solgaleo|Lunala
+130,Delcatty,♢♢,Solgaleo|Lunala
+131,Fletchling,♢,Solgaleo
+132,Hawlucha,♢♢,Solgaleo
+133,Pikipek,♢,Solgaleo|Lunala
+134,Trumbeak,♢,Solgaleo|Lunala
+135,Toucannon,♢♢,Solgaleo|Lunala
+136,Yungoos,♢,Solgaleo
+137,Gumshoos,♢,Solgaleo
+138,Stufful,♢,Lunala
+139,Bewear,♢♢♢,Lunala
+140,Oranguru,♢♢♢,Lunala
+141,Komala,♢♢,Solgaleo
+142,Big Malasada,♢♢,Solgaleo|Lunala
+143,Fishing Net,♢♢,Lunala
+144,Rare Candy,♢♢,Solgaleo|Lunala
+145,Rotom Dex,♢♢,Solgaleo
+146,Poison Barb,♢♢,Lunala
+147,Leaf Cape,♢♢,Solgaleo
+148,Acerola,♢♢,Lunala
+149,Ilima,♢♢,Lunala
+150,Kiawe,♢♢,Lunala
+151,Guzma,♢♢,Lunala
+152,Lana,♢♢,Solgaleo
+153,Sophocles,♢♢,Solgaleo
+154,Mallow,♢♢,Solgaleo
+155,Lillie,♢♢,Solgaleo
+156,Alolan Exeggutor,☆,Lunala
+157,Morelull,☆,Lunala
+158,Tsareena,☆,Solgaleo
+159,Tapu Bulu,☆,Solgaleo
+160,Alolan Marowak,☆,Lunala
+161,Turtonator,☆,Lunala
+162,Alolan Vulpix,☆,Lunala
+163,Pyukumuku,☆,Lunala
+164,Tapu Fini,☆,Lunala
+165,Oricorio,☆,Solgaleo
+166,Tapu Koko,☆,Solgaleo
+167,Cutiefly,☆,Solgaleo
+168,Comfey,☆,Solgaleo
+169,Sandygast,☆,Solgaleo
+170,Tapu Lele,☆,Lunala
+171,Cosmog,☆,Lunala
+172,Rockruff,☆,Solgaleo
+173,Mudsdale,☆,Solgaleo
+174,Minior,☆,Lunala
+175,Magearna,☆,Solgaleo
+176,Drampa,☆,Solgaleo
+177,Pikipek,☆,Lunala
+178,Bewear,☆,Lunala
+179,Komala,☆,Solgaleo
+180,Decidueye ex,☆☆,Lunala
+181,Dhelmise ex,☆☆,Solgaleo
+182,Incineroar ex,☆☆,Solgaleo
+183,Crabominable ex,☆☆,Solgaleo
+184,Wishiwashi ex,☆☆,Lunala
+185,Alolan Raichu ex,☆☆,Solgaleo
+186,Lunala ex,☆☆,Lunala
+187,Passimian ex,☆☆,Lunala
+188,Alolan Muk ex,☆☆,Lunala
+189,Solgaleo ex,☆☆,Solgaleo
+190,Acerola,☆☆,Lunala
+191,Ilima,☆☆,Lunala
+192,Kiawe,☆☆,Lunala
+193,Guzma,☆☆,Lunala
+194,Lana,☆☆,Solgaleo
+195,Sophocles,☆☆,Solgaleo
+196,Mallow,☆☆,Solgaleo
+197,Lillie,☆☆,Solgaleo
+198,Decidueye ex,☆☆,Lunala
+199,Dhelmise ex,☆☆,Solgaleo
+200,Incineroar ex,☆☆,Solgaleo
+201,Crabominable ex,☆☆,Solgaleo
+202,Wishiwashi ex,☆☆,Lunala
+203,Alolan Raichu ex,☆☆,Solgaleo
+204,Lunala ex,☆☆,Lunala
+205,Passimian ex,☆☆,Lunala
+206,Alolan Muk ex,☆☆,Lunala
+207,Solgaleo ex,☆☆,Solgaleo
+208,Guzma,☆☆☆,Lunala
+209,Lillie,☆☆☆,Solgaleo
+210,Bulbasaur,✵,Solgaleo
+211,Ivysaur,✵,Solgaleo
+212,Venusaur,✵,Solgaleo
+213,Exeggcute,✵,Lunala
+214,Exeggutor,✵,Lunala
+215,Squirtle,✵,Lunala
+216,Wartortle,✵,Lunala
+217,Blastoise,✵,Lunala
+218,Staryu,✵,Solgaleo
+219,Starmie,✵,Solgaleo
+220,Gastly,✵,Lunala
+221,Haunter,✵,Lunala
+222,Gengar,✵,Lunala
+223,Machop,✵,Solgaleo
+224,Machoke,✵,Solgaleo
+225,Machamp,✵,Solgaleo
+226,Cubone,✵,Lunala
+227,Marowak,✵,Lunala
+228,Jigglypuff,✵,Solgaleo
+229,Wigglytuff,✵,Solgaleo
+230,Venusaur ex,✵✵,Solgaleo
+231,Exeggutor ex,✵✵,Lunala
+232,Blastoise ex,✵✵,Lunala
+233,Starmie ex,✵✵,Solgaleo
+234,Gengar ex,✵✵,Lunala
+235,Machamp ex,✵✵,Solgaleo
+236,Marowak ex,✵✵,Lunala
+237,Wigglytuff ex,✵✵,Solgaleo
+238,Lunala ex,♕,Solgaleo|Lunala
+239,Solgaleo ex,♕,Solgaleo|Lunala
