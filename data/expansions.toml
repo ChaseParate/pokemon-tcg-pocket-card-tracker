@@ -24,3 +24,7 @@ offering_rate_table = "shinies"
 name = "Celestial Guardians"
 packs = ["Solgaleo", "Lunala"]
 offering_rate_table = "shinies"
+
+[extradimensional_crisis]
+name = "Extradimensional Crisis"
+offering_rate_table = "shinies"
